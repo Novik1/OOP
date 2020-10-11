@@ -1,8 +1,8 @@
 package OOP.Lab2;
 
 public class Queue {
-    private Node front;		// front points to front element in the queue (if any)
-    private Node last;		// rear points to last element in the queue
+    private Node front;		
+    private Node last;		
     private int Size;
     private int capacity;
     private class Node {
